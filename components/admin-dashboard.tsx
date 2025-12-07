@@ -284,4 +284,3 @@ export default function AdminDashboard({ admin }: AdminDashboardProps) {
     </div>
   )
 }
-

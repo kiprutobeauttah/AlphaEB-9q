@@ -1,2 +1,1 @@
 # Ebook platform requirements
-

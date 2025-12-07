@@ -181,4 +181,3 @@ export default function DownloadForm({ bookId, bookTitle }: DownloadFormProps) {
     </Card>
   )
 }
-

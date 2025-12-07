@@ -251,4 +251,3 @@ export default function UserDashboard({ user }: UserDashboardProps) {
     </div>
   )
 }
-

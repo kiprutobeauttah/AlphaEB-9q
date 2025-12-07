@@ -268,4 +268,3 @@ export default function BookPage({ params }: { params: { id: string } }) {
     </div>
   )
 }
-
