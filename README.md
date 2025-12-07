@@ -2,4 +2,4 @@
 
 ---
 
-![img](scp.png)
+![img](public/scp.png)
